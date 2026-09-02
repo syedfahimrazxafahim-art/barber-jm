@@ -1,0 +1,6 @@
+{
+  "name": "Barber Shop J.M",
+  "description": "Classic American Barbershop in New York offering precision haircuts, hot towel straight shaves, beard sculpting, and online appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
